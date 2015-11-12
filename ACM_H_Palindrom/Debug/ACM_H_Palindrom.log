@@ -1,0 +1,23 @@
+﻿빌드 시작: 2015-11-03 오후 9:18:57
+     1>2 노드의 "C:\Users\H.J.Lee\documents\visual studio 2015\Projects\Algorithm\ACM_H_Palindrom\ACM_H_Palindrom.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt palindrom.c
+         palindrom.c
+     1>c:\users\h.j.lee\documents\visual studio 2015\projects\algorithm\acm_h_palindrom\palindrom.c(18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+     1>c:\users\h.j.lee\documents\visual studio 2015\projects\algorithm\acm_h_palindrom\palindrom.c(19): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+     1>c:\users\h.j.lee\documents\visual studio 2015\projects\algorithm\acm_h_palindrom\palindrom.c(21): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+     1>c:\users\h.j.lee\documents\visual studio 2015\projects\algorithm\acm_h_palindrom\palindrom.c(17): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+     1>c:\users\h.j.lee\documents\visual studio 2015\projects\algorithm\acm_h_palindrom\palindrom.c(17): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+     1>c:\users\h.j.lee\documents\visual studio 2015\projects\algorithm\acm_h_palindrom\palindrom.c(17): warning C4101: 'remain' :참조되지 않은 지역 변수입니다.
+     1>c:\users\h.j.lee\documents\visual studio 2015\projects\algorithm\acm_h_palindrom\palindrom.c(17): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\H.J.Lee\documents\visual studio 2015\Projects\Algorithm\Debug\ACM_H_Palindrom.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\H.J.Lee\documents\visual studio 2015\Projects\Algorithm\Debug\ACM_H_Palindrom.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\H.J.Lee\documents\visual studio 2015\Projects\Algorithm\Debug\ACM_H_Palindrom.lib" /MACHINE:X86 Debug\palindrom.obj
+         ACM_H_Palindrom.vcxproj -> C:\Users\H.J.Lee\documents\visual studio 2015\Projects\Algorithm\Debug\ACM_H_Palindrom.exe
+     1>"C:\Users\H.J.Lee\documents\visual studio 2015\Projects\Algorithm\ACM_H_Palindrom\ACM_H_Palindrom.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.48

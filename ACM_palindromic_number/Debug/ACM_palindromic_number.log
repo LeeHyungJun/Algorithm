@@ -1,0 +1,19 @@
+﻿빌드 시작: 2015-11-03 오후 7:05:37
+     1>2 노드의 "C:\Users\H.J.Lee\documents\visual studio 2015\Projects\Algorithm\ACM_palindromic_number\ACM_palindromic_number.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt H.c
+         H.c
+     1>c:\users\h.j.lee\documents\visual studio 2015\projects\algorithm\acm_palindromic_number\h.c(8): warning C4477: 'fscanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+     1>c:\users\h.j.lee\documents\visual studio 2015\projects\algorithm\acm_palindromic_number\h.c(8): warning C4474: 'fscanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+         c:\users\h.j.lee\documents\visual studio 2015\projects\algorithm\acm_palindromic_number\h.c(8): note: placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+     1>c:\users\h.j.lee\documents\visual studio 2015\projects\algorithm\acm_palindromic_number\h.c(4): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+     1>c:\users\h.j.lee\documents\visual studio 2015\projects\algorithm\acm_palindromic_number\h.c(4): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+     1>c:\users\h.j.lee\documents\visual studio 2015\projects\algorithm\acm_palindromic_number\h.c(4): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\H.J.Lee\documents\visual studio 2015\Projects\Algorithm\Debug\ACM_palindromic_number.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\H.J.Lee\documents\visual studio 2015\Projects\Algorithm\Debug\ACM_palindromic_number.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\H.J.Lee\documents\visual studio 2015\Projects\Algorithm\Debug\ACM_palindromic_number.lib" /MACHINE:X86 Debug\H.obj
+         ACM_palindromic_number.vcxproj -> C:\Users\H.J.Lee\documents\visual studio 2015\Projects\Algorithm\Debug\ACM_palindromic_number.exe
+     1>"C:\Users\H.J.Lee\documents\visual studio 2015\Projects\Algorithm\ACM_palindromic_number\ACM_palindromic_number.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.45

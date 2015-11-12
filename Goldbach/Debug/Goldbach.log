@@ -1,0 +1,11 @@
+﻿빌드 시작: 2015-09-16 오후 6:28:52
+     1>2 노드의 "C:\Users\H.J.Lee\documents\visual studio 2015\Projects\Algorithm\Goldbach\Goldbach.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Goldbach.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt goldbach_.cpp
+         goldbach_.cpp
+     1>c:\users\h.j.lee\documents\visual studio 2015\projects\algorithm\goldbach\goldbach_.cpp(47): fatal error C1010: 미리 컴파일된 헤더를 찾는 동안 예기치 않은 파일의 끝이 나타났습니다. '#include "stdafx.h"'을(를) 소스에 추가하시겠습니까?
+     1>"C:\Users\H.J.Lee\documents\visual studio 2015\Projects\Algorithm\Goldbach\Goldbach.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.89
