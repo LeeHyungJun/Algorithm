@@ -1,0 +1,3 @@
+﻿  queue.c
+c:\users\hj\documents\visual studio 2015\projects\job\queue_c\queue.c(49): warning C4101: 'popValue' :참조되지 않은 지역 변수입니다.
+  queue_c.vcxproj -> C:\Users\hj\documents\visual studio 2015\Projects\Job\Debug\queue_c.exe

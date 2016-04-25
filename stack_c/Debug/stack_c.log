@@ -1,0 +1,4 @@
+﻿  stack.c
+c:\users\hj\documents\visual studio 2015\projects\job\stack_c\stack.c(47): warning C4101: 'popValue' :참조되지 않은 지역 변수입니다.
+c:\users\hj\documents\visual studio 2015\projects\job\stack_c\stack.c(11): warning C4716: 'init_stack': 값을 반환해야 합니다.
+  stack_c.vcxproj -> c:\users\hj\documents\visual studio 2015\Projects\Job\Debug\stack_c.exe
